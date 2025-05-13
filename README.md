@@ -52,19 +52,49 @@ This project outlines the installation of on-premises Active Directory within Vm
 <p>
 <img src="https://github.com/user-attachments/assets/28842a3d-154e-43de-8485-3e4d7836935b" width="550" alt="Disk Sanitization Steps"/>
 </p>
+
+### Click Next
 <p>
-<img src="https://github.com/user-attachments/assets/091eb8ec-bd16-460a-810e-02ed50089eec" width="550" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://github.com/user-attachments/assets/229024e4-d715-47fe-b00a-397feac98cac" width="550" alt="Disk Sanitization Steps"/>
+</p
+
+### Choose `Role-based or featured-based installation` then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/b54cf44c-1ffb-4e54-9c7c-d7905435191e" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/2ef952ef-9b55-4f0c-8b25-7223e54312f1" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/ee40c40e-a48f-4f5e-8925-6492477fc548" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ba425c71-0bc1-4645-b55c-3bad7ebe6023" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+### Choose `Select a Server from the server pool` then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/1d508688-b8e0-43db-a52a-8e8acf41fca1" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Add the following Roles then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/5e94bdbc-4f27-4062-a93e-64ca55c5f3b7" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Make sure that Group Policy Management is checked then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/f307695c-87e9-4564-9ce1-3b1cb2590804" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/77959899-5038-4fa1-8016-40075507d483" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/04518211-0b0a-44f9-82c1-9745446b0fa6" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
 ## Create the Domain Controller VM
