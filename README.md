@@ -18,7 +18,7 @@ This project outlines the installation of on-premises Active Directory within Vm
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create Resource Group
+- Add Active Directory Domain Services to the Server
 - Create a Virtual Network
 - Create a Domain Controller with the Windows Server 2022 Datacenter OS named `dc-1`
     - Username: adminuser
