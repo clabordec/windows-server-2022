@@ -170,6 +170,9 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
+https://github.com/user-attachments/assets/1a773e7e-90d4-4455-af36-9b8ef2dc2019
+
+
 
 ## Create the Client VM
 <p>
