@@ -47,10 +47,10 @@ This project outlines the installation of on-premises Active Directory within Vm
 
 <h2>Deployment and Configuration Steps</h2>
 
-## Create Virtual Network
-### Within Azure create a virtual network, this vn with allow the Virtual Machiness to communicate within the same network
+## Installing Active Directory
+### Within Server Manager, go to Manage >> Add Roles and Features
 <p>
-<img src="https://github.com/user-attachments/assets/ad2197a9-c243-4080-a395-6775cce5ad10" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/28842a3d-154e-43de-8485-3e4d7836935b" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://github.com/user-attachments/assets/091eb8ec-bd16-460a-810e-02ed50089eec" width="550" alt="Disk Sanitization Steps"/>
