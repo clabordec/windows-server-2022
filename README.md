@@ -170,11 +170,26 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
-https://github.com/user-attachments/assets/1a773e7e-90d4-4455-af36-9b8ef2dc2019
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/1a773e7e-90d4-4455-af36-9b8ef2dc2019" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Click Install
+<p>
+<img src="https://github.com/user-attachments/assets/23f51a4c-d07d-46a4-af6a-f7801a605595" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Once the installation is complete, you will be prompted with the following message, the VM will automatically sign out in 5-10 seconds depending in Internet speed
+<p>
+<img src="https://github.com/user-attachments/assets/376f6be1-e617-4c12-97de-2bc27d839d24" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 
-
-## Create the Client VM
+## Create Organizational Units (OUs) for different departmenets
 <p>
 <img src="https://github.com/user-attachments/assets/4464316f-abee-404d-ae8b-b2b088ea2692" width="550" alt="Disk Sanitization Steps"/>
 </p>
