@@ -44,7 +44,6 @@ This project outlines the installation of on-premises Active Directory within Vm
         - HR
         - Sales
         - Management
-- Assign `client-1` DNS settings to match the private IP address from `dc-1`
 
 <h2>Deployment and Configuration Steps</h2>
 
