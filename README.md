@@ -10,7 +10,6 @@ This project outlines the installation of on-premises Active Directory within Vm
 
 - VMware Workstation Pro (Virtual Machines/Compute)
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
