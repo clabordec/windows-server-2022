@@ -18,13 +18,32 @@ This project outlines the installation of on-premises Active Directory within Vm
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Add Active Directory Domain Services to the Server
-- Create a Virtual Network
-- Create a Domain Controller with the Windows Server 2022 Datacenter OS named `dc-1`
-    - Username: adminuser
-    - Password: AdminSecurePassword123!!!
-- Create a CLient VM with the Windows 10 Pro OS name `client-1`
-    - Username: labuser
-    - Password: SecurePassword123!!!
+- Promote the server as the Domain Controller
+- Create Organizational Units (OUs) for different departmenets
+    - USA
+    - Europe
+    - Asia
+- Create user accounts and groups within these OUs
+- Add teh following groups: Users, Computers and Servers
+- Add 3 Users for each Department
+    - Users
+        - IT
+        - Accounting
+        - HR
+        - Sales
+        - Management
+    - Computers
+        - IT
+        - Accounting
+        - HR
+        - Sales
+        - Management
+    - Servers
+        - IT
+        - Accounting
+        - HR
+        - Sales
+        - Management
 - Assign `client-1` DNS settings to match the private IP address from `dc-1`
 
 <h2>Deployment and Configuration Steps</h2>
