@@ -188,19 +188,26 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
+### Enter in the password that was created for the domain
+<p>
+<img src="https://github.com/user-attachments/assets/59b1c7bc-eb2c-4323-9b33-1e12f18c5d3f" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Go to Server Manager, then click on Tools, you will see all of the features for Active Directory, along with others that was installed
+<p>
+<img src="https://github.com/user-attachments/assets/fed75294-b6e8-4c8c-b997-9e6c71d95a49" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
 ## Create Organizational Units (OUs) for different departmenets
+### Go to Server Manager >> Tools >> Active Directory Users and Computers
 <p>
-<img src="https://github.com/user-attachments/assets/4464316f-abee-404d-ae8b-b2b088ea2692" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/bb40457e-2cc0-4f6e-8c24-89df2705f615" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/164d5f17-eab8-4069-a19a-0290babcd27e" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/0d3405ee-d765-4377-b9b6-ca7e57dba340" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/aa6d7898-799f-4492-8837-8a8368a47cd8" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/261fc132-3ab6-4c34-bebf-8a2af3031e5e" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
