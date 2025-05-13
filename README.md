@@ -164,6 +164,12 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/bbe830c7-bc35-40ea-9299-2687120c77ba" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
 ## Create the Client VM
 <p>
