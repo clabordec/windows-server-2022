@@ -94,26 +94,44 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
-
-
-
-## Create the Domain Controller VM
+### Click Next
 <p>
-<img src="https://github.com/user-attachments/assets/03fe46f0-14cd-4409-8521-ff6f95d09b46" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/984a29d1-5a11-437d-aa9a-4477b5f5e269" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/6600e096-fe7d-4892-94bf-aeb886e6152a" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/17b0f803-57b2-41b9-8d77-0e029fb00d7c" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/5dcb7277-92dc-4ddd-9bb6-fc58871020b7" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/79ff65e1-449a-4786-851b-acbb813cb05a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+### Select the following Role services
+<p>
+<img src="https://github.com/user-attachments/assets/e221127b-cde8-4160-97aa-eed641ccb889" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/076e5d5f-5a86-4ff1-99d7-4d11f068e8f1" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### By default the following services will be check, click Next
+<p>
+<img src="https://github.com/user-attachments/assets/4206d866-4581-478d-8497-2900766c3929" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Click Install after review all of the Roles and Features
+<p>
+<img src="https://github.com/user-attachments/assets/0f1faa61-9f8b-4054-a55b-89aa8d2472d8" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+## Promoting the server as a Domain Controller
+### Once the installation for AD DS has been completed click on `Promote this server to a domain controller`
+<p>
+<img src="https://github.com/user-attachments/assets/f248377a-3ec0-4b51-80a3-e6bbc657cc39" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
 ### Be sure to check the Licensing to aviod any errors
 <p>
