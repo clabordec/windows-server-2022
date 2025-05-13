@@ -100,7 +100,7 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
-### Select the following Role services
+### Select the following Role services, then click Next
 <p>
 <img src="https://github.com/user-attachments/assets/e221127b-cde8-4160-97aa-eed641ccb889" width="550" alt="Disk Sanitization Steps"/>
 </p>
@@ -133,19 +133,34 @@ This project outlines the installation of on-premises Active Directory within Vm
 <br />
 
 
-### Be sure to check the Licensing to aviod any errors
+### Under `Select the deployment operation` choose `Add a forest`
 <p>
-<img src="https://github.com/user-attachments/assets/bef855ee-cdf5-42d8-89b3-c9d63783953f" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/8476ea97-8ec8-48ff-9bea-b7f090215362" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
 
 
-### Click on the Network section and assign the `windows-vnet` to the VM
+### Provide a domain name, in this case I will use `chaan.com` as the domain name, then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/46cbaada-41c5-4b4a-8ff2-56c7c03cd2a0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/51e51975-7f49-4e2e-957e-620849c6b0b0" width="550" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+### Be sure to keep the `Forest Function Level` and `Domain Function Level` set to Windows Server 2016, and enter a secure password for the domain, then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/aa0a4ed0-dc9d-42c9-9f5d-668c4d5a1d6b" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/76448cce-6dde-4b46-8512-4557912893b8" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/67fc6372-8d5d-4996-b6d9-60edaa365f82" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### The NetBIOS domain name will appear as the domain name without the `.com`, click Next
+<p>
+<img src="https://github.com/user-attachments/assets/b20f1ea0-1b84-4f67-8ea1-e83431ad1177" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
