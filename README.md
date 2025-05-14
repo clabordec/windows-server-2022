@@ -231,7 +231,6 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 
 ### Create the following OUs within the `USA` OU, `Europe` OU and `Asia` OU: `Users`, `Computers` and `Servers`
-### Be sure to have `Security` as the group type, this is to ensure that the users within each group have the proper access to certain resources
 <p>
 <img src="https://github.com/user-attachments/assets/cf1f2a63-9761-4010-8bcf-905e6e7569aa" width="550" alt="Disk Sanitization Steps"/>
 </p>
@@ -245,11 +244,25 @@ This project outlines the installation of on-premises Active Directory within Vm
 <img src="https://github.com/user-attachments/assets/843ea783-1ecc-46dd-88a8-99ae3c8d41e7" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Be sure to check the Licensing to avoid any errors
+### Create the following OUs in the `Users`, `Computers` and `Servers` OUs within the `USA`, `Asia` and `Europe` OUs: `IT`, `Accounting`, `HR`, `Sales`, `Management`
 <p>
-<img src="https://github.com/user-attachments/assets/20058aea-eb63-43cd-8393-45b56c57db9e" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/74267fb9-6096-4c7b-8e0b-3b67c02788f7" width="550" alt="Disk Sanitization Steps" />
 </p>
-
+<p>
+<img src="https://github.com/user-attachments/assets/d75fca2f-818a-4d4a-b273-2f4cbb260cba" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/75760e07-5637-4f67-8e22-ee8acd58da6f" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/9da2c04f-d214-4e5d-b305-daec929d85d9" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/78dc1c95-297d-4b3a-b7c6-70168fa6372b" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/45f52336-7d1d-40a5-a3c0-5811d93d06df" width="550" alt="Disk Sanitization Steps" />
+</p>
 
 ### Click on the Network section and assign the `windows-vnet` to the VM
 <p>
