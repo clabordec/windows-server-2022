@@ -24,7 +24,7 @@ This project outlines the installation of on-premises Active Directory within Vm
     - Europe
     - Asia
 - Create user accounts and groups within these OUs
-- Add teh following groups: Users, Computers and Servers
+- Add the following groups: Users, Computers and Servers
 - Add 3 Users for each Department
     - Users
         - IT
