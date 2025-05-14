@@ -211,6 +211,26 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 <br />
 
+### Right click on the domain name >> New >> Organizational Unit
+<p>
+<img src="https://github.com/user-attachments/assets/b7136025-5de1-47e3-b2d2-2e6c7587fd5b" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Create the following OUs: `USA`, `Europe`, `Asia`
+<p>
+<img src="https://github.com/user-attachments/assets/8da67ea5-e38b-4202-9a86-e0306bc4a139" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2b377d3e-f458-4454-b43e-a80bfe2db4b9" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/6e6dfa77-32a9-4695-b6ba-8cf73e639593" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/dca8c28c-47af-42bb-9dce-e64648637fa4" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+
 ### Be sure to check the Licensing to avoid any errors
 <p>
 <img src="https://github.com/user-attachments/assets/81729691-70c9-4e22-8252-53bbb41403a4" width="550" alt="Disk Sanitization Steps" />
