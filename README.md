@@ -230,26 +230,26 @@ This project outlines the installation of on-premises Active Directory within Vm
 <img src="https://github.com/user-attachments/assets/dca8c28c-47af-42bb-9dce-e64648637fa4" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Create the following Group OUs within the `USA` OU, `Europe` OU and `Asia` OU: `Users`, `Computers` and `Servers`
+### Create the following OUs within the `USA` OU, `Europe` OU and `Asia` OU: `Users`, `Computers` and `Servers`
+### Be sure to have `Security` as the group type, this is to ensure that the users within each group have the proper access to certain resources
 <p>
-<img src="https://github.com/user-attachments/assets/8da67ea5-e38b-4202-9a86-e0306bc4a139" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/cf1f2a63-9761-4010-8bcf-905e6e7569aa" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/2b377d3e-f458-4454-b43e-a80bfe2db4b9" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/418e2c8e-db1e-46ff-bb60-bbd5266efaf4" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/6e6dfa77-32a9-4695-b6ba-8cf73e639593" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a1d8e3f6-cae3-417a-8087-a49b6eace479" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/dca8c28c-47af-42bb-9dce-e64648637fa4" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/843ea783-1ecc-46dd-88a8-99ae3c8d41e7" width="550" alt="Disk Sanitization Steps"/>
 </p>
-
 
 ### Be sure to check the Licensing to avoid any errors
 <p>
-<img src="https://github.com/user-attachments/assets/81729691-70c9-4e22-8252-53bbb41403a4" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/20058aea-eb63-43cd-8393-45b56c57db9e" width="550" alt="Disk Sanitization Steps" />
 </p>
-<br />
+
 
 ### Click on the Network section and assign the `windows-vnet` to the VM
 <p>
