@@ -25,7 +25,7 @@ This project outlines the installation of on-premises Active Directory within Vm
     - Asia
 - Create user accounts and groups within these OUs
 - Add the following groups: Users, Computers and Servers
-- Add 3 Users for each Department
+- Add the following departments
     - Users
         - IT
         - Accounting
@@ -275,57 +275,6 @@ This project outlines the installation of on-premises Active Directory within Vm
 <p>
 <img src="https://github.com/user-attachments/assets/ef10ce1f-c840-4887-b460-2d935a8ce6b9" width="550" alt="Disk Sanitization Steps" />
 </p>
-
-### Click on the Network section and assign the `windows-vnet` to the VM
-<p>
-<img src="https://github.com/user-attachments/assets/12f9bb63-b623-4c2f-a656-5e54882d75af" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/c10dbb36-1000-47dd-aee9-3aaf3213cbb0" width="550" alt="Disk Sanitization Steps" />
-</p>
-<br />
-
-### Set `client-1` DNS settings to match `dc-1` Private IP address
-<p>
-<img src="https://github.com/user-attachments/assets/b0729472-1c35-4ec5-a92c-8658ba2af405" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/2a1f8bf2-a9f3-4fac-be5c-7ef9534cd4ce" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/2a1f8bf2-a9f3-4fac-be5c-7ef9534cd4ce" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/63ade75b-fedd-4798-86be-6cd3d7cf446a" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Get the private IP address from `dc-1`
-<p>
-<img src="https://github.com/user-attachments/assets/605cd1e8-ffcc-45a5-b817-61236d9aaecb" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Enter `dc-1` private IP address as the DNS server for `client-1`
-<p>
-<img src="https://github.com/user-attachments/assets/dc8b5e32-ecdb-4719-822b-dd472bf96306" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Restart `client-1` from the Azure Portal
-<p>
-<img src="https://github.com/user-attachments/assets/813ef37b-6794-458e-af21-759faa6c8719" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/813ef37b-6794-458e-af21-759faa6c8719" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Log into `client-1` and run the `ipconfig /all` command to view all internet protocal configurations
-<p>
-<img src="https://github.com/user-attachments/assets/f5ea1c2e-a2dd-4da7-b028-5870a012b1d4" width="550" alt="Disk Sanitization Steps"/>
-</p>
-
 
 ---
 
