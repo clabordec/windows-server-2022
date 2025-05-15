@@ -263,6 +263,18 @@ This project outlines the installation of on-premises Active Directory within Vm
 <p>
 <img src="https://github.com/user-attachments/assets/45f52336-7d1d-40a5-a3c0-5811d93d06df" width="550" alt="Disk Sanitization Steps" />
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/45f52336-7d1d-40a5-a3c0-5811d93d06df" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/11be43f7-2983-4ba6-8b7b-bc124bdf93d0" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/6ca0329f-35cd-4ff5-b66d-702275440224" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/ef10ce1f-c840-4887-b460-2d935a8ce6b9" width="550" alt="Disk Sanitization Steps" />
+</p>
 
 ### Click on the Network section and assign the `windows-vnet` to the VM
 <p>
