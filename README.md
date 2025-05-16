@@ -277,9 +277,31 @@ This project outlines the installation of on-premises Active Directory within Vm
 </p>
 
 ## Adding Groups
-### Create the following Groups within each department: `Data Analysts`, `Software Engineers`, `Accountants` and `Sales Repersentatives`
+### Create the groups and users for each department
+### Group
 <p>
-<img src="https://github.com/user-attachments/assets/ef10ce1f-c840-4887-b460-2d935a8ce6b9" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/ad1b2a1a-5ac4-479b-b0ec-892aef569d06" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/88b5f26e-44cd-4005-bdb7-350b8c9fee3f" width="550" alt="Disk Sanitization Steps" />
+</p>
+
+
+### User
+<p>
+<img src="https://github.com/user-attachments/assets/b550a1df-8151-42c3-bc8c-4f5dda79dee5" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/06ed3367-693d-46ba-a84c-d029ee6b09a1" width="550" alt="Disk Sanitization Steps" />
+</p>
+
+### Set a password for the user
+### Once the user input their password for the very first time, they will need to change their password afterwards
+<p>
+<img src="https://github.com/user-attachments/assets/720ff7bf-002a-4696-9e60-658dd0cb46e9" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/c05b162f-768e-4022-9827-ad383fd51f01" width="550" alt="Disk Sanitization Steps" />
 </p>
 
 ---
