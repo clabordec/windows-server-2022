@@ -276,6 +276,12 @@ This project outlines the installation of on-premises Active Directory within Vm
 <img src="https://github.com/user-attachments/assets/ef10ce1f-c840-4887-b460-2d935a8ce6b9" width="550" alt="Disk Sanitization Steps" />
 </p>
 
+## Adding Groups
+### Create the following Groups within each department: `Data Analysts`, `Software Engineers`, `Accountants` and `Sales Repersentatives`
+<p>
+<img src="https://github.com/user-attachments/assets/ef10ce1f-c840-4887-b460-2d935a8ce6b9" width="550" alt="Disk Sanitization Steps" />
+</p>
+
 ---
 
 <br />
