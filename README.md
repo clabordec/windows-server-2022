@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Setting Up Active Directory in VMware Workstation Pro</h1>
+<h1>Installing and setting up Windows Server 2022 in VMware Workstation Pro</h1>
 This project outlines the installation of on-premises Active Directory within Vmware Workstation Pro 17.<br />
 
 
