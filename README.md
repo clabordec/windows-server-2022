@@ -17,6 +17,7 @@ This project outlines the installation of on-premises Active Directory within Vm
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
+- Install and set up Windows Server 2022 onto the VM
 - Add Active Directory Domain Services to the Server
 - Promote the server as the Domain Controller
 - Create Organizational Units (OUs) for different departmenets
