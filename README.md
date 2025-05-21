@@ -4,7 +4,7 @@
 
 
 <h1>Installing and setting up Windows Server 2022 in VMware Workstation Pro</h1>
-This project outlines the installation of on-premises Active Directory within Vmware Workstation Pro 17.<br />
+This project outlines the installation and set up of Windows Server 2022 along with the installation and management of Active Directory within VMware Workstation Pro 17.<br />
 
 
 <h2>Environments and Technologies Used</h2>
