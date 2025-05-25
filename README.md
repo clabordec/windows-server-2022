@@ -49,9 +49,11 @@ This project outlines the installation and set up of Windows Server 2022 along w
 
 <h2>Deployment and Configuration Steps</h2>
 
+<br>
+<br>
 
 ## Installing and Setting up Windows Server 2022
-
+<br>
 
 ## Installing Active Directory
 ### Within Server Manager, go to Manage >> Add Roles and Features
