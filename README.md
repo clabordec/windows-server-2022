@@ -60,6 +60,11 @@ This project outlines the installation and set up of Windows Server 2022 along w
 <img src="https://github.com/user-attachments/assets/e02ed9d9-ed8c-4074-9173-873bc0eab825" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+### Save the ISO in any location, in this case I have saved the following, I've also renamed the ISO image:
+<p>
+<img src="https://github.com/user-attachments/assets/e02ed9d9-ed8c-4074-9173-873bc0eab825" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <br>
 
