@@ -51,10 +51,10 @@ This project outlines the installation and set up of Windows Server 2022 along w
 
 <br>
 
-## Installing and Setting up Windows Server 2022
+## Installing and setting up Windows Server 2022
 <br>
 
-## Installing Active Directory
+## Installing and setting up Active Directory
 ### Within Server Manager, go to Manage >> Add Roles and Features
 <p>
 <img src="https://github.com/user-attachments/assets/28842a3d-154e-43de-8485-3e4d7836935b" width="550" alt="Disk Sanitization Steps"/>
