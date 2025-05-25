@@ -49,9 +49,12 @@ This project outlines the installation and set up of Windows Server 2022 along w
 
 <h2>Deployment and Configuration Steps</h2>
 
-<br>
-
 ## Installing and setting up Windows Server 2022
+### Go to a search browser and type on the following `windows server 2022 iso download` choose the highlighed link
+<p>
+<img src="https://github.com/user-attachments/assets/8b4ec958-9a33-4684-ad29-01ca6860cf1c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 <br>
 
 ## Installing and setting up Active Directory
