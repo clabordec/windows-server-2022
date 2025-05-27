@@ -70,6 +70,47 @@ This project outlines the installation and set up of Windows Server 2022 along w
 <img src="https://github.com/user-attachments/assets/cc525cd1-4138-4a4b-84db-7d0f720788ba" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/b99d9086-cb9f-47e6-b9d6-6677b41b1386" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### To aviod any issue with the VM starting up successfully, choose `I will install the operating system later.` radio option, then click next
+<p>
+<img src="https://github.com/user-attachments/assets/600e745f-0ce4-4dbc-abf7-bf99e481a92d" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Select `Microsoft Windows` as the OS, and `Windows Server 2022` as the version
+<p>
+<img src="https://github.com/user-attachments/assets/defaccac-cc49-4621-996c-f5e958ee37c9" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Give the VM a name, and choose a file path
+<p>
+<img src="https://github.com/user-attachments/assets/6e01934c-051b-4e20-8c81-db10ce7c3e19" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Depending on your computer specs, assign the necessary amount of storage to the VM
+<p>
+<img src="https://github.com/user-attachments/assets/223cc538-d1ad-422e-b05b-3fb40a039749" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Click finish
+<p>
+<img src="https://github.com/user-attachments/assets/6d15807f-e3f6-4fd7-96e8-0a27b432984c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Go to the newly created VM
+<p>
+<img src="https://github.com/user-attachments/assets/6d15807f-e3f6-4fd7-96e8-0a27b432984c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+
+![image](https://github.com/user-attachments/assets/6395b56c-4647-4242-a265-891e80023767)
+
+![image](https://github.com/user-attachments/assets/58f8f74c-6aa0-4d60-9a05-53e018668e41)
+
+
 
 <br>
 
