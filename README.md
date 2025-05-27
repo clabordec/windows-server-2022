@@ -102,15 +102,41 @@ This project outlines the installation and set up of Windows Server 2022 along w
 
 ### Go to the newly created VM, right-click on the VM and choose settings
 <p>
-<img src="https://github.com/user-attachments/assets/6d15807f-e3f6-4fd7-96e8-0a27b432984c" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/6395b56c-4647-4242-a265-891e80023767" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/58f8f74c-6aa0-4d60-9a05-53e018668e41" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+### Based on the specs of your device, change the memory to a decent amount so that the VM will run smoothly
+<p>
+<img src="https://github.com/user-attachments/assets/c7d84a28-f3bd-46b9-9462-0f683fba072c" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
-![image](https://github.com/user-attachments/assets/6395b56c-4647-4242-a265-891e80023767)
+### Add the ISO file onto the VM
+<p>
+<img src="https://github.com/user-attachments/assets/ba3962db-f735-4b31-9852-d8fd28449bb8" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
-![image](https://github.com/user-attachments/assets/58f8f74c-6aa0-4d60-9a05-53e018668e41)
+### Power up the VM
+<p>
+<img src="https://github.com/user-attachments/assets/125cba7f-1d0d-4e98-b404-d57591b840d6" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
+### Once the VM is powered on, click within the VM and rapidly press space bar or any key of your choosing until you see the following, then hit enter
+<p>
+<img src="https://github.com/user-attachments/assets/673de096-0f20-48aa-9ece-1defee174ec9" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
+### Click Next
+<p>
+<img src="https://github.com/user-attachments/assets/5a2f044b-79d7-4c62-a745-a7ad0d71afce" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Click Install now
+<p>
+<img src="https://github.com/user-attachments/assets/e437c752-91c3-4064-8cc8-2583498a19c8" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
 <br>
 
