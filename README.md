@@ -100,7 +100,7 @@ This project outlines the installation and set up of Windows Server 2022 along w
 <img src="https://github.com/user-attachments/assets/6d15807f-e3f6-4fd7-96e8-0a27b432984c" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Go to the newly created VM
+### Go to the newly created VM, right-click on the VM and choose settings
 <p>
 <img src="https://github.com/user-attachments/assets/6d15807f-e3f6-4fd7-96e8-0a27b432984c" width="550" alt="Disk Sanitization Steps"/>
 </p>
