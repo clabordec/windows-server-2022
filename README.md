@@ -102,9 +102,6 @@ This project outlines the installation and set up of Windows Server 2022 along w
 
 ### Go to the newly created VM, right-click on the VM and choose settings
 <p>
-<img src="https://github.com/user-attachments/assets/6395b56c-4647-4242-a265-891e80023767" width="550" height="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <img src="https://github.com/user-attachments/assets/58f8f74c-6aa0-4d60-9a05-53e018668e41" width="550" height="550" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -136,6 +133,51 @@ This project outlines the installation and set up of Windows Server 2022 along w
 ### Click Install now
 <p>
 <img src="https://github.com/user-attachments/assets/e437c752-91c3-4064-8cc8-2583498a19c8" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Choose the `Windows Server 2022 Standard Evaluation(Desktop Experience)` to have a Graphical User Interface(GUI) for the VM, then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/f0a85cc3-4c76-47a8-8e67-7bd8b1502449" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Go through the Mircosoft Software License Terms, click the checkbox to agree then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/29749b67-470e-4e6b-a355-8703bf4f7a69" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Since this is a brand new VM with a brand new OS, choose the custom option to create a new OS
+<p>
+<img src="https://github.com/user-attachments/assets/150f1f9f-6ed7-467b-adf2-4589a65d9e66" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Ensure that the storage is correct, then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/2386fa37-4f0d-4dec-9da3-5e05c38b45ba" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Depending on your network speed, the process of installing the OS can take between 5-30 minutes
+<p>
+<img src="https://github.com/user-attachments/assets/6ff01d6e-89c6-46b6-9d01-6a1e63f24900" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Once the OS has been installed, input a password, be sure to remember the password, or you will need to re-install the OS if you forget it, then click Finish
+<p>
+<img src="https://github.com/user-attachments/assets/1c4d5835-9756-47b6-b92a-e715181386a6" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### After inputting the new password, press Ctrl+Alt+Insert to unlock the Windows Start Screen within the VM
+<p>
+<img src="https://github.com/user-attachments/assets/f8a8e5ad-710b-47b6-978f-fe4a9e39d4bb" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Enter the new password
+<p>
+<img src="https://github.com/user-attachments/assets/ed45f5f3-75f0-45de-b840-9ece2dfd4d4a" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Once logged in, Server Manager will be the first application that will open
+<p>
+<img src="https://github.com/user-attachments/assets/8c57e57d-62a4-419d-a2b7-97162208121a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
