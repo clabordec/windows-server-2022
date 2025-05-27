@@ -65,6 +65,11 @@ This project outlines the installation and set up of Windows Server 2022 along w
 <img src="https://github.com/user-attachments/assets/1626d3d0-a726-4de8-80e9-73476cde68dd" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
+### Open VMware Workstation Pro and create a new VM
+<p>
+<img src="https://github.com/user-attachments/assets/cc525cd1-4138-4a4b-84db-7d0f720788ba" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <br>
 
