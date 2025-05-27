@@ -102,10 +102,10 @@ This project outlines the installation and set up of Windows Server 2022 along w
 
 ### Go to the newly created VM, right-click on the VM and choose settings
 <p>
-<img src="https://github.com/user-attachments/assets/6395b56c-4647-4242-a265-891e80023767" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/6395b56c-4647-4242-a265-891e80023767" width="550" height="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/58f8f74c-6aa0-4d60-9a05-53e018668e41" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/58f8f74c-6aa0-4d60-9a05-53e018668e41" width="550" height="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ### Based on the specs of your device, change the memory to a decent amount so that the VM will run smoothly
