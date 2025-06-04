@@ -47,6 +47,10 @@ This project outlines the installation and set up of Windows Server 2022 along w
         - Sales
         - Management
 
+
+<br>
+
+
 <h2>Deployment and Configuration Steps</h2>
 
 ## Installing and setting up Windows Server 2022
