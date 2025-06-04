@@ -51,7 +51,7 @@ This project outlines the installation and set up of Windows Server 2022 along w
 <br>
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h1>Deployment and Configuration Steps</h1>
 
 ## Installing and setting up Windows Server 2022
 ### Go to a search browser and type on the following `windows server 2022 iso download` choose the highlighed link
