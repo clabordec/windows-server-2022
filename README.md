@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3729c9bd-7cff-4dd4-830b-2efd0aee6d51" width="650" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/acd61be0-336d-4681-b4b2-7afcf8be9a8b" width="650" alt="Microsoft Active Directory Logo"/>
 </p>
+
 
 
 <h1>Installing and setting up Windows Server 2022 in VMware Workstation Pro</h1>
